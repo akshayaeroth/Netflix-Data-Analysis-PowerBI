@@ -28,7 +28,7 @@ Netflix_Content_Analysis/
 
 ## Dashboard Preview
 
-![Netflix Dashboard](PowerBI/Dashboard_Screenshot.png)
+![Netflix Dashboard](PowerBI/Dashboard_Screenshot.jpeg)
 
 **Features of the Dashboard:**
 - Total number of shows, movies, and TV shows.
